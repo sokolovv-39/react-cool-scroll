@@ -1,0 +1,18 @@
+.wrapper {
+  box-sizing: content-box;
+  background: transparent;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-clip: content-box;
+}
+.wrapper .scroll {
+  border-radius: 4px;
+  background: #b3b3b3;
+  height: 4px;
+  width: 4px;
+}
+
+.transparent {
+  opacity: 0;
+}
