@@ -1,7 +1,7 @@
 {
-  "name": "react-cool-scroll",
-  "version": "2.0.0",
-  "description": "Simple, user-friendly, cross-platform and adaptive scrolling. Customize as you want, use a lot of flexible settings and enjoy the pleasant UI/UX of a custom scroll",
+  "name": "@c0ffee_39/react-cool-scroll",
+  "version": "0.1.0-beta",
+  "description": "Simple, user-friendly, cross-platform and adaptive scrolling. Customize as you want, use a lot of flexible settings and enjoy the pleasant UI/UX of a custom scroll ⚙️✨🎨",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sokolovv-39/react-custom-scroll.git"
+    "url": "git+https://github.com/sokolovv-39/react-cool-scroll.git"
   },
   "keywords": [
     "scroll",
@@ -26,9 +26,9 @@
   "author": "@sokolovv-39",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sokolovv-39/react-custom-scroll/issues"
+    "url": "https://github.com/sokolovv-39/react-cool-scroll/issues"
   },
-  "homepage": "https://github.com/sokolovv-39/react-custom-scroll#readme",
+  "homepage": "https://github.com/sokolovv-39/react-cool-scroll#readme",
   "devDependencies": {
     "@types/node": "^22.7.3",
     "@types/react": "^18.3.9",
