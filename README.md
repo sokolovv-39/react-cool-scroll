@@ -230,7 +230,7 @@ The markup of scroll looks simplistically like this
 
 `<div>` with `scroll` class is scroll element itself. `<div>` with `wrapper` class is a scroll wrapper, **the element within which the scroll moves**, and you can freely adjust it.
 
-You can add all styles as you want to this objects. In future, it is planned to replace the internal `<div>` with `children`, so that you can pass any layout or even images that will act as a scroll.
+You can add all styles as you want to this objects.
 
 **Default styles**
 
