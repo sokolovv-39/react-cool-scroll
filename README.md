@@ -65,8 +65,6 @@ Then, add to parent element `overflow: hidden` and `width: max-content` to child
 
 Congratulations🥳! You got a beautiful custom scroll with default styles🌟🎨
 
-![Default scroll](/assets/images/default%20scroll.png)
-
 ## Explanation
 
 You need to import `useScrollSetup` hook, adding **<Parent_HTML_Element_Type, Children_HTML_Element_Type>** to generic (just skip this in pure javascript). Then, import `<CustomScroll/>` component.
@@ -143,8 +141,6 @@ By default, scroll works like this:
   <Image src={PorscheImg} alt="" />
 </CustomScroll>
 ```
-
-![Porsche scroll](/assets/images/porsсhe%20scroll.png)
 
 You can add any layout as children as you want.
 
